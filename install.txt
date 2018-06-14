@@ -1,5 +1,5 @@
 git clone;
-parta servidor: 
+pasta servidor: 
 node index.js
 -------------
 pasta cliente
