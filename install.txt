@@ -1,0 +1,8 @@
+git clone;
+parta servidor: 
+node index.js
+-------------
+pasta cliente
+ionic serve --lab
+----
+Maciel
